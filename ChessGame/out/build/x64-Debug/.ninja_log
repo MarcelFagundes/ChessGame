@@ -1,0 +1,23 @@
+# ninja log v6
+45	323	8092992047591412	CMakeFiles/ChessGame.dir/src/game/Board.cpp.obj	76f7ae645917b28d
+28	442	8092992047397106	CMakeFiles/ChessGame.dir/src/engine/Timer.cpp.obj	c3857c1f908fe866
+55	438	8092992047707699	CMakeFiles/ChessGame.dir/src/game/MoveGenerator.cpp.obj	3427bc9495fb0bfc
+19	508	8092992047317367	CMakeFiles/ChessGame.dir/src/engine/GraphicsDevice.cpp.obj	d58f809468fc1749
+39	724	8092992047549771	CMakeFiles/ChessGame.dir/src/engine/TextAtlas.cpp.obj	6d5fe8ac966998f7
+61	759	8092992047707699	CMakeFiles/ChessGame.dir/src/render/BoardRenderer.cpp.obj	ce7ec0286134b5b8
+71	770	8092992047887476	CMakeFiles/ChessGame.dir/src/render/PieceRenderer.cpp.obj	d4bace9addd23c1f
+13	791	8092992047297257	CMakeFiles/ChessGame.dir/src/engine/Window.cpp.obj	45f36f1beac5efee
+7	825	8092992047231897	CMakeFiles/ChessGame.dir/src/main.cpp.obj	5c54b62f514dd27
+825	1048	8092992055286714	ChessGame.exe	1d6ef8c7b8b7fe7b
+6	22	8092992046914161	clean	8c45b54705a541e8
+5	26	8092993207654677	clean	8c45b54705a541e8
+59	403	8092993208575038	CMakeFiles/ChessGame.dir/src/game/Board.cpp.obj	76f7ae645917b28d
+72	478	8092993208706096	CMakeFiles/ChessGame.dir/src/game/MoveGenerator.cpp.obj	3427bc9495fb0bfc
+37	496	8092993208359670	CMakeFiles/ChessGame.dir/src/engine/Timer.cpp.obj	c3857c1f908fe866
+24	588	8092993208224243	CMakeFiles/ChessGame.dir/src/engine/GraphicsDevice.cpp.obj	d58f809468fc1749
+48	809	8092993208469745	CMakeFiles/ChessGame.dir/src/engine/TextAtlas.cpp.obj	6d5fe8ac966998f7
+84	830	8092993208831402	CMakeFiles/ChessGame.dir/src/render/BoardRenderer.cpp.obj	ce7ec0286134b5b8
+98	834	8092993208961789	CMakeFiles/ChessGame.dir/src/render/PieceRenderer.cpp.obj	d4bace9addd23c1f
+13	879	8092993208116169	CMakeFiles/ChessGame.dir/src/engine/Window.cpp.obj	45f36f1beac5efee
+5	907	8092993208035983	CMakeFiles/ChessGame.dir/src/main.cpp.obj	5c54b62f514dd27
+907	1157	8092993217051257	ChessGame.exe	1d6ef8c7b8b7fe7b

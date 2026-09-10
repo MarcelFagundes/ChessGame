@@ -1,0 +1,3 @@
+C:/Users/Marcel/Documents/Projetos/ChessGame/out/build/x64-Debug/CMakeFiles/ChessGame.dir
+C:/Users/Marcel/Documents/Projetos/ChessGame/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Marcel/Documents/Projetos/ChessGame/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
