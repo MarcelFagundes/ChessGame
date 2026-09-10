@@ -10,6 +10,7 @@ x86/
 obj/
 bin/
 $GetCurrentTime/
+out/
 
 # =========================================================================
 # Visual Studio Local Cache and User Settings
