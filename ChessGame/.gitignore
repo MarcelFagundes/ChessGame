@@ -1,0 +1,52 @@
+# =========================================================================
+# Visual Studio Build Outputs & Directories
+# =========================================================================
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+obj/
+bin/
+$GetCurrentTime/
+
+# =========================================================================
+# Visual Studio Local Cache and User Settings
+# =========================================================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+
+# =========================================================================
+# C++ Compiler & Linker Outputs
+# =========================================================================
+*.exe
+*.dll
+*.lib
+*.ilk
+*.exp
+*.obj
+*.pdb
+*.iobj
+*.ipdb
+
+# Precompiled headers
+*.pch
+
+# Visual C++ Browse database & Intellisense cache
+*.ncb
+*.db
+*.ipch
+
+# =========================================================================
+# Log & Temporary files
+# =========================================================================
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
